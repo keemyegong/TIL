@@ -1,6 +1,1 @@
-오늘 배운 내용
-GIT과 GITHUB
-
-dddd
-
-Github에서 수정됨
+problem solve
